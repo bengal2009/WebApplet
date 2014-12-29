@@ -13,6 +13,7 @@ public class TestJava extends JApplet {
             e.printStackTrace();
         }
         g.drawString("百聞不如見！", 200, 150);
+        g.drawArc(1,1,10,10,30,60);
     }
 
 }
